@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/component-lifecycle-practice/static/css/main.4b8347a5.css",
+    "main.js": "/component-lifecycle-practice/static/js/main.86f49501.js",
+    "index.html": "/component-lifecycle-practice/index.html",
+    "main.4b8347a5.css.map": "/component-lifecycle-practice/static/css/main.4b8347a5.css.map",
+    "main.86f49501.js.map": "/component-lifecycle-practice/static/js/main.86f49501.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b8347a5.css",
+    "static/js/main.86f49501.js"
+  ]
+}
